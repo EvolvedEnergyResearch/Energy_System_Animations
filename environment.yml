@@ -1,0 +1,17 @@
+name: animated_map_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - jupyter
+  - ipykernel
+  - geopandas
+  - openpyxl
+  - ephem
+  - matplotlib
+  - skyfield
+  - shapely
+  - ffmpeg
